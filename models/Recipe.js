@@ -14,7 +14,9 @@ class Recipe{
     }
 
     static renderRecipes(recipesInfo){
-        
+        recipesInfo.forEach(recipe => {
+            
+        })
     }
 
 }
